@@ -1,0 +1,6 @@
+button.accordion-button {
+    width: 100%;
+}
+.accordion-item span {
+    text-align: left;
+}
